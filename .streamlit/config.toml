@@ -5,3 +5,9 @@ backgroundColor="#0f0c29"
 secondaryBackgroundColor="#1a1a3e"
 textColor="#f8fafc"
 font="sans serif"
+
+[server]
+# Changes 'localhost' to numbers (IP address)
+address="127.0.0.1"
+# Adds the app name to the end of the URL
+baseUrlPath="crash-predictor"
